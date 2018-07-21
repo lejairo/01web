@@ -1,0 +1,73 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Documento sin título</title>
+<link href="cv/bootstrap.min.css" rel="stylesheet" type="text/css">
+
+</head>
+
+<body>
+	<div class="container">
+<div class="dropdown">
+  <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu1"
+data-toggle="dropdown" aria-expanded="true"> Dropdown <span class="caret"></span> </button>
+  <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1">
+    <a role="menuitem" tabindex="-1" href="menu2.html">Action</a>
+    <a role="menuitem" tabindex="-1" href="menu3.html">Another action</a
+>
+    <a role="menuitem" tabindex="-1" href="menu4.html">Something else h
+      ere</a>
+    <a role="menuitem" tabindex="-1" href="menu5.html">Separated link</a
+>
+  </ul>
+</div>
+		</div>
+<div class="container">
+  <div class="jumbotron">
+    <h1 class="display-3">¿Donde buscar chamba?</h1>
+    <div class="row">
+      <div class="col-md-6">
+        <p class="lead">¿Esta buscando trabajo? el primer paso es tener presente las funtes de reclutamiento existentes en nuestros medio. le seran de gran utilidad para la busqueda que inicia. A continuacion, se detallan las principales</p>
+      </div>
+      <div class="col-md-6"> <img src="image/RTRTTTR.jpg" class=" img-fluid" alt=""/></div>
+    </div>
+  </div>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-4">
+        <h2>Medio de comunicación (anuncios)</h2>
+        <ol>
+          <li>Es importante tener conocimientos sobre cuáles son los diarios que publican las ofertas de empleo. Seleccione los puestos de acuerdo a su experiencia y aptitudes, así como a su expectativa personal.</li>
+          <li>Infórmese en qué radios y televisores de su localidad se transmite información sobre oportunidades de empleo.</li>
+          <li>Apóyese también en la información verbal, comuníquese con familiares, amigos y personas conocidas y manifiésteles su deseo de buscar empleo.</li>
+        </ol>
+      </div>
+      <div class="col-md-4">
+        <h2>Agencia de empleos</h2>
+        <br>
+        <br>
+        <br>
+        <ol>
+          <li>Acérquese a las Agencias de Empleo Públicas las cuales se encuentran principalmente en las oficinas del Ministerio de Trabajo y Promoción Social, solicite información en las oficinas del Sistema Nacional de Colocaciones o la Dirección Nacional de Empleos y la forma de financiamiento de la bolsa de Trabajo.</li>
+          <li>Asimismo, ubique las Agencias Particulares de Empleo, solicite información, verifique su forma de trabajo, seriedad, forma de pago, remuneraciones, sistemas de contratación</li>
+        </ol>
+      </div>
+      <div class="col-md-4">
+        <h2>Consultas, cooperativas y otros</h2>
+        <br>
+        <ol>
+          <li>También resulta útil ubicar y presentarse a las Consultoras de Recursos Humanos. Solicite además de una entrevista, que se le permita incluir su currículo en la base de datos.</li>
+          <li>Identifique las Cooperativas de Trabajo y Fomento del Empleo, solicite información sobre la modalidad de contratación.</li>
+          <li>Infórmese también sobre las diferentes bolsas de trabajo con que cuentan las universidades, institutos, ONGs, Etc.</li>
+          <li>Trabajo vía internet.</li>
+        </ol>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="container">
+  <div class="alert alert-success">Si ya ubicó las fuentes de empleo y seleccionó algún puesto, usted debe contar con un Currículum Vitae para presentarse.</div>
+</div>
+</body>
+</html>
